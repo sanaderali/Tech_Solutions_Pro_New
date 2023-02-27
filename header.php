@@ -77,12 +77,12 @@
                                             <li class="nav-item">
                                                 <a href="index.html" class="nav-link active">Home Demo - 1</a>
                                             </li>
-                                            <li class="nav-item">
+                                            <!-- <li class="nav-item">
                                                 <a href="index-2.html" class="nav-link">Home Demo - 2</a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="index-3.html" class="nav-link">Home Demo - 3</a>
-                                            </li>
+                                            </li> -->
                                         </ul>
                                     </li>
 
@@ -92,7 +92,7 @@
                                             <i class="ri-arrow-down-s-line"></i>
                                         </a>
 
-                                        <ul class="dropdown-menu">
+                                        <!-- <ul class="dropdown-menu">
                                             <li class="nav-item">
                                                 <a href="about-style-1.html" class="nav-link">About Style One</a>
                                             </li>
@@ -108,7 +108,7 @@
                                             <li class="nav-item">
                                                 <a href="testimonials.html" class="nav-link">Testimonials</a>
                                             </li>
-                                        </ul>
+                                        </ul> -->
                                     </li>
 
                                     <li class="nav-item">
@@ -117,7 +117,7 @@
                                             <i class="ri-arrow-down-s-line"></i>
                                         </a>
 
-                                        <ul class="dropdown-menu">
+                                        <!-- <ul class="dropdown-menu">
                                             <li class="nav-item">
                                                 <a href="services-style-1.html" class="nav-link">Services Style One</a>
                                             </li>
@@ -127,7 +127,7 @@
                                             <li class="nav-item">
                                                 <a href="services-details.html" class="nav-link">Services Details</a>
                                             </li>
-                                        </ul>
+                                        </ul> -->
                                     </li>
 
                                     <li class="nav-item">
@@ -136,7 +136,7 @@
                                             <i class="ri-arrow-down-s-line"></i>
                                         </a>
 
-                                        <ul class="dropdown-menu">
+                                        <!-- <ul class="dropdown-menu">
                                             <li class="nav-item">
                                                 <a href="pricing.html" class="nav-link">Pricing</a>
                                             </li>
@@ -212,7 +212,7 @@
                                             <li class="nav-item">
                                                 <a href="coming-soon.html" class="nav-link">Coming Soon</a>
                                             </li>
-                                        </ul>
+                                        </ul> -->
                                     </li>
 
                                     <li class="nav-item">
@@ -220,14 +220,14 @@
                                             Projects 
                                             <i class="ri-arrow-down-s-line"></i>
                                         </a>
-                                        <ul class="dropdown-menu">
+                                        <!-- <ul class="dropdown-menu">
                                             <li class="nav-item">
                                                 <a href="projects.html" class="nav-link">Projects</a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="projects-details.html" class="nav-link">Projects Details</a>
                                             </li>
-                                        </ul>
+                                        </ul> -->
                                     </li>
 
                                     <li class="nav-item">
@@ -235,7 +235,7 @@
                                             Shop 
                                             <i class="ri-arrow-down-s-line"></i>
                                         </a>
-                                        <ul class="dropdown-menu">
+                                        <!-- <ul class="dropdown-menu">
                                             <li class="nav-item">
                                                 <a href="products.html" class="nav-link">Products</a>
                                             </li>
@@ -254,7 +254,7 @@
                                             <li class="nav-item">
                                                 <a href="products-details.html" class="nav-link">Products Details</a>
                                             </li>
-                                        </ul>
+                                        </ul> -->
                                     </li>
 
                                     <li class="nav-item">
@@ -262,7 +262,7 @@
                                             Blog 
                                             <i class="ri-arrow-down-s-line"></i>
                                         </a>
-                                        <ul class="dropdown-menu">
+                                        <!-- <ul class="dropdown-menu">
                                             <li class="nav-item">
                                                 <a href="blog-style-1.html" class="nav-link">Blog Style One</a>
                                             </li>
@@ -301,7 +301,7 @@
                                                     </li>
                                                 </ul>
                                             </li>
-                                        </ul>
+                                        </ul> -->
                                     </li>
 
                                     <li class="nav-item">
