@@ -90,7 +90,7 @@
                     <div class="copyright-area-content">
                         <p>
                             Copyright @<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear())</script> Coze All Rights Reserved by
-                            <a href="https://envytheme.com/" target="_blank"> EnvyTheme</a>
+                            <a href="#" target="_blank"> Tech Solutions Pro</a>
                         </p>
                     </div>
                 </div>

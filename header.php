@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zxx">
+<html>
     
 <!-- Mirrored from templates.envytheme.com/coze/default/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Feb 2023 07:29:02 GMT -->
 <head>
@@ -25,7 +25,7 @@
         <link rel="stylesheet" href="assets/css/dark.css">
 		<link rel="stylesheet" href="assets/css/responsive.css">
 		
-		<title>Coze - IT Solutions & Technology Services HTML Template</title>
+		<title>Tech Solutions Pro - IT Solutions & Technology Services</title>
 
         <link rel="icon" type="image/png" href="assets/images/favicon.png">
     </head>
