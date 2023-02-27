@@ -384,3 +384,5 @@
             <!-- End Navbar Area -->
         </header>
         <!-- End Header Area -->
+
+<?php include ('sidebar.php'); ?>
