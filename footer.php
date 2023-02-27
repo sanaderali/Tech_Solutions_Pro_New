@@ -137,6 +137,4 @@
         <script src="assets/js/wow.min.js"></script>
         <script src="assets/js/main.js"></script>
     </body>
-
-<!-- Mirrored from templates.envytheme.com/coze/default/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Feb 2023 07:29:37 GMT -->
 </html>
