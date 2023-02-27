@@ -70,26 +70,26 @@
                                     <li class="nav-item">
                                         <a href="#" class="nav-link active">
                                             Home 
-                                            <i class="ri-arrow-down-s-line"></i>
+                                            <!-- <i class="ri-arrow-down-s-line"></i> -->
                                         </a>
 
-                                        <ul class="dropdown-menu">
+                                        <!-- <ul class="dropdown-menu">
                                             <li class="nav-item">
                                                 <a href="index.html" class="nav-link active">Home Demo - 1</a>
                                             </li>
-                                            <!-- <li class="nav-item">
+                                             <li class="nav-item">
                                                 <a href="index-2.html" class="nav-link">Home Demo - 2</a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="index-3.html" class="nav-link">Home Demo - 3</a>
-                                            </li> -->
-                                        </ul>
+                                            </li>
+                                        </ul> -->
                                     </li>
 
                                     <li class="nav-item">
                                         <a href="#" class="nav-link">
                                             About 
-                                            <i class="ri-arrow-down-s-line"></i>
+                                            <!-- <i class="ri-arrow-down-s-line"></i> -->
                                         </a>
 
                                         <!-- <ul class="dropdown-menu">
@@ -114,7 +114,7 @@
                                     <li class="nav-item">
                                         <a href="#" class="nav-link">
                                             Services 
-                                            <i class="ri-arrow-down-s-line"></i>
+                                            <!-- <i class="ri-arrow-down-s-line"></i> -->
                                         </a>
 
                                         <!-- <ul class="dropdown-menu">
@@ -133,7 +133,7 @@
                                     <li class="nav-item">
                                         <a href="#" class="nav-link">
                                             Pages 
-                                            <i class="ri-arrow-down-s-line"></i>
+                                            <!-- <i class="ri-arrow-down-s-line"></i> -->
                                         </a>
 
                                         <!-- <ul class="dropdown-menu">
@@ -218,7 +218,7 @@
                                     <li class="nav-item">
                                         <a href="#" class="nav-link">
                                             Projects 
-                                            <i class="ri-arrow-down-s-line"></i>
+                                            <!-- <i class="ri-arrow-down-s-line"></i> -->
                                         </a>
                                         <!-- <ul class="dropdown-menu">
                                             <li class="nav-item">
@@ -233,7 +233,7 @@
                                     <li class="nav-item">
                                         <a href="#" class="nav-link">
                                             Shop 
-                                            <i class="ri-arrow-down-s-line"></i>
+                                            <!-- <i class="ri-arrow-down-s-line"></i> -->
                                         </a>
                                         <!-- <ul class="dropdown-menu">
                                             <li class="nav-item">
@@ -260,7 +260,7 @@
                                     <li class="nav-item">
                                         <a href="#" class="nav-link">
                                             Blog 
-                                            <i class="ri-arrow-down-s-line"></i>
+                                            <!-- <i class="ri-arrow-down-s-line"></i> -->
                                         </a>
                                         <!-- <ul class="dropdown-menu">
                                             <li class="nav-item">
