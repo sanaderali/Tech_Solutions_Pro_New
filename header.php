@@ -112,9 +112,9 @@
                                     </li>
 
                                     <li class="nav-item">
-                                        <a href="/Services.php" class="nav-link ri-arrow-down-s-line">
+                                        <a href="/Services.php" class="nav-link">
                                             Services 
-                                            <i class="ri-arrow-down-s-line"></i>
+                                            <!-- <i class="ri-arrow-down-s-line display-flex"></i> -->
                                         </a>
 
                                         <!-- <ul class="dropdown-menu">
