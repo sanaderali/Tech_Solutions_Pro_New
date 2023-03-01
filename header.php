@@ -68,7 +68,7 @@
                             <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                                 <ul class="navbar-nav ms-auto">
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link active">
+                                        <a href="/index.php" class="nav-link active">
                                             Home 
                                             <!-- <i class="ri-arrow-down-s-line"></i> -->
                                         </a>
@@ -87,7 +87,7 @@
                                     </li>
 
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
+                                        <a href="/About_us.php" class="nav-link">
                                             About 
                                             <!-- <i class="ri-arrow-down-s-line"></i> -->
                                         </a>
@@ -112,9 +112,9 @@
                                     </li>
 
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
+                                        <a href="/Services.php" class="nav-link ri-arrow-down-s-line">
                                             Services 
-                                            <!-- <i class="ri-arrow-down-s-line"></i> -->
+                                            <i class="ri-arrow-down-s-line"></i>
                                         </a>
 
                                         <!-- <ul class="dropdown-menu">
@@ -131,8 +131,8 @@
                                     </li>
 
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
-                                            Pages 
+                                        <a href="/Gallery" class="nav-link">
+                                            Gallery 
                                             <!-- <i class="ri-arrow-down-s-line"></i> -->
                                         </a>
 
@@ -216,7 +216,7 @@
                                     </li>
 
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
+                                        <a href="/Projects.php" class="nav-link">
                                             Projects 
                                             <!-- <i class="ri-arrow-down-s-line"></i> -->
                                         </a>
@@ -231,8 +231,8 @@
                                     </li>
 
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
-                                            Shop 
+                                        <a href="/Team.php" class="nav-link">
+                                            Team 
                                             <!-- <i class="ri-arrow-down-s-line"></i> -->
                                         </a>
                                         <!-- <ul class="dropdown-menu">
@@ -258,7 +258,7 @@
                                     </li>
 
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
+                                        <a href="/Blog.php" class="nav-link">
                                             Blog 
                                             <!-- <i class="ri-arrow-down-s-line"></i> -->
                                         </a>
@@ -304,12 +304,12 @@
                                         </ul> -->
                                     </li>
 
-                                    <li class="nav-item">
+                                    <!-- <li class="nav-item">
                                         <a href="pricing.html" class="nav-link">Pricing</a>
-                                    </li>
+                                    </li> -->
         
                                     <li class="nav-item">
-                                        <a href="contact.html" class="nav-link">Contact</a>
+                                        <a href="contact.php" class="nav-link">Contact</a>
                                     </li>
                                 </ul>
 
