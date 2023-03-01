@@ -446,7 +446,7 @@
         <!-- End Testimonials Area -->
 
         <!-- Start Pricing Area -->
-        <div class="pricing-area with-black-background pt-100 pb-75">
+        <!-- <div class="pricing-area with-black-background pt-100 pb-75">
             <div class="container">
                 <div class="section-title">
                     <span>PRICING</span>
@@ -520,7 +520,7 @@
             <div class="pricing-shape-2">
                 <img src="assets/images/pricing/pricing-shape-2.png" alt="image">
             </div>
-        </div>
+        </div> -->
         <!-- End Pricing Area -->
 
         <!-- Start Blog Area -->
@@ -614,7 +614,7 @@
                 </div>
             </div>
         </div>
-        <!-- End Blog Area -->
+        <!-- End Blog Area --> 
 
 
 
