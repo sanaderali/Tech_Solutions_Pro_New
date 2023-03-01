@@ -27,7 +27,7 @@
 		
 		<title>Tech Solutions & Technology Services </title>
 
-        <link rel="icon" type="image/png" href="assets/images/tech-pro-logo.png">
+        <link rel="icon" type="image/png" href="assets/images/favicon.png">
     </head>
 
     <body>
