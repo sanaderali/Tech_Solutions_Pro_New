@@ -2,7 +2,7 @@
 Default CSS
 =================================================*/
 :root {
-  --main-color: #FEB302;
+  --main-color: #104a8e;
   --white-color: #ffffff;
   --black-color: #000000;
 }
@@ -1766,7 +1766,7 @@ Default CSS
 
 .theme-dark .products-details-tabs .nav .nav-item .nav-link:hover, .theme-dark .products-details-tabs .nav .nav-item .nav-link.active {
   color: var(--white-color);
-  background: radial-gradient(circle, #a66bff, #c666ef, #dd62df, #ee61cf, #fb64bf);
+  background: radial-gradient(circle, #104a8e, #3b8fcd, #104a8e, #3b8fcd, #104a8e);
 }
 
 .theme-dark .products-details-tabs .tab-content .tab-pane {
@@ -1778,7 +1778,7 @@ Default CSS
 }
 
 .theme-dark .products-details-tabs .tab-content .tab-pane .products-reviews .rating span.checked {
-  color: orange;
+  color: #3b8fcd;
 }
 
 .theme-dark .products-details-tabs .tab-content .tab-pane .products-reviews .rating-count span {
@@ -1798,7 +1798,7 @@ Default CSS
 }
 
 .theme-dark .products-details-tabs .tab-content .tab-pane .products-review-comments .user-review .review-rating .review-stars i.checked {
-  color: orange;
+  color: #3b8fcd;
 }
 
 .theme-dark .products-details-tabs .tab-content .tab-pane .products-review-comments .user-review .review-rating span {

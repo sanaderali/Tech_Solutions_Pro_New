@@ -7,9 +7,9 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-3 col-md-6">
                         <div class="overview-card">
-                            <h3>Call Us</h3>
+                            <h3>Pakistan Landline</h3>
                             <span>
-                                <a href="tel:9901234567">+990-123-4567</a>
+                                <a href="tel:+92512740289">+92 512740289</a>
                             </span>
 
                             <div class="overview-shape">
@@ -20,9 +20,9 @@
 
                     <div class="col-lg-3 col-md-6">
                         <div class="overview-card">
-                            <h3>Email Us</h3>
+                            <h3>UK Landline</h3>
                             <span>
-                                <a href="https://templates.envytheme.com/cdn-cgi/l/email-protection#99f1f0faf6e3fcd9fef4f8f0f5b7faf6f4"><span class="__cf_email__" data-cfemail="056d6c666a7f60456268646c692b666a68">[email&#160;protected]</span></a>
+                                <a href="tel:02081243670">02081243670</a>
                             </span>
 
                             <div class="overview-shape">
@@ -35,7 +35,7 @@
                         <div class="overview-card">
                             <h3>Tech Support</h3>
                             <span>
-                                <a href="tel:15143125678">+1 (514) 312-5678</a>
+                                <a href="tel:+44 7478213985">+44 7478213985</a>
                             </span>
 
                             <div class="overview-shape">
@@ -46,8 +46,10 @@
 
                     <div class="col-lg-3 col-md-6">
                         <div class="overview-card">
-                            <h3>Visit Us</h3>
-                            <span>413 North Las Vegas, NV 89032</span>
+                            <h3>Email:</h3>
+                            <span>
+                                <a href="mailto:sales@techsolutionspro.co.uk">sales@techsolutionspro.co.uk</a>
+                            </span>
 
                             <div class="overview-shape">
                                 <img src="assets/images/overview/overview-shape.png" alt="image">
@@ -103,28 +105,34 @@
 
                     <div class="col-lg-3 col-md-6">
                         <div class="single-footer-widget ps-5" data-aos="fade-up" data-aos-delay="60" data-aos-duration="600" data-aos-once="true">
-                            <h3>Links</h3>
+                            <h3>Quick Links</h3>
 
                             <ul class="quick-links">
-                                <li><a href="about-style-1.html">About Us</a></li>
-                                <li><a href="services-style-2.html">Services</a></li>
-                                <li><a href="blog-style-1.html">News</a></li>
-                                <li><a href="pricing.html">Pricing</a></li>
-                                <li><a href="projects.html">Projects</a></li>
+                                <li><a href="/index.php">Home</a></li>
+                                <li><a href="/About_us.php">About Us</a></li>
+                                <li><a href="/Services.php">Services</a></li>
+                                <li><a href="/Blog.php">Blogs</a></li>
+                                <li><a href="/Portfolio.php">Portfolio</a></li>
+                                <li><a href="/Contact.php">Contact Us</a></li>
+                                <li><a href="faq.html">FAQ's</a></li>
+                                <li><a href="terms-of-service.html">Terms of Service</a></li>
+                                <li><a href="privacy-policy.html">Privacy Policy</a></li>
                             </ul>
                         </div>
                     </div>
 
                     <div class="col-lg-3 col-md-6">
                         <div class="single-footer-widget ps-5" data-aos="fade-up" data-aos-delay="70" data-aos-duration="700" data-aos-once="true">
-                            <h3>Pages</h3>
+                            <h3>Services</h3>
 
                             <ul class="quick-links">
-                                <li><a href="contact.html">Contact Us</a></li>
-                                <li><a href="purchase-guide.html">Purchase Guide</a></li>
-                                <li><a href="faq.html">FAQ's</a></li>
-                                <li><a href="terms-of-service.html">Terms of Service</a></li>
-                                <li><a href="privacy-policy.html">Privacy Policy</a></li>
+                                <li><a href="contact.html">Mobile App Development</a></li>
+                                <li><a href="purchase-guide.html">Web Development</a></li>
+                                <li><a href="faq.html">Customer Chat Services</a></li>
+                                <li><a href="terms-of-service.html">Graphic Designing</a></li>
+                                <li><a href="privacy-policy.html">Search Engine Optimization</a></li>
+                                <li><a href="privacy-policy.html">VMware Deployment</a></li>
+                                <li><a href="privacy-policy.html">Digital Marketing Services</a></li>
                             </ul>
                         </div>
                     </div>
