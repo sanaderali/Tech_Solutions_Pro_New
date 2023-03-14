@@ -114,7 +114,7 @@
                     </div>
                 </div>
 
-                <div class="about-inner-box">
+                <!-- <div class="about-inner-box">
                     <div class="row justify-content-center">
                         <div class="col-lg-4 col-md-6">
                             <div class="single-about-card" data-aos="fade-up" data-aos-delay="80" data-aos-duration="800" data-aos-once="true">
@@ -142,7 +142,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
 
             <div class="about-circle-shape">

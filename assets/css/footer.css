@@ -62,24 +62,24 @@ Footer Area CSS
 }
 
 .single-footer-widget .widget-social li a i {
-  color: #CDC4D9;
+  color: #ffffff;
   display: inline-block;
   -webkit-transition: var(--transition);
   transition: var(--transition);
-  height: 35px;
-  width: 35px;
+  height: 40px;
+  width: 40px;
   line-height: 35px;
   text-align: center;
   border-radius: 50px;
   background-color: var(--black-color);
   border: 1px solid #3b8fcd;
-  font-size: 15px;
+  font-size: 20px;
 }
 
 .single-footer-widget .widget-social li a i:hover {
   -webkit-transform: translateY(-5px);
           transform: translateY(-5px);
-  color: var(--black-color);
+  color:#fff;
   background-color: var(--main-color);
   border: 1px solid var(--main-color);
 }

@@ -130,7 +130,7 @@
                             <h3>We Are <b>All In One</b> IT Solution & Technology Company <span class="overlay"></span></h3>
                             <p>Tech solutions pro is a leading IT solutions provider based in Nottingham, United Kingdom. With our unparalleled dedication towards delivering unwavering quality, we have helped numerous clients grow their business organically by leveraging modern trends and emerging state of the art technologies. Our team of talented specialists is highly articulate, demonstrates exceptional relationship building and impeccable communication skills.</p>
                             <div class="about-btn">
-                                <a href="/About_us.php" class="default-btn">Know More About Us</a>
+                                <a href="/About_us" class="default-btn">Know More About Us</a>
                             </div>
                         </div>
                     </div>
@@ -220,72 +220,67 @@
         <!-- End Services Area -->
         
         <!-- Start Choose Area -->
-        <div class="choose-area pt-100 pb-75">
+        <div class="choose-area bg-with-F5F5F5-color pt-100 pb-75">
             <div class="container">
                 <div class="section-title">
-                    <span>WHY CHOOSE US</span>
+                    <span>What We Do </span>
                     <h2>We Help You To <b>Increase</b> Your Sale Through Solutions <span class="overlay"></span></h2>
-                    <p>With our emphasis on establishing unbeatable quality, our team of experts go above and beyond in order to ensure you 
-                        are completely satisfied. Our team is fully equipped to handle any diverse variety of any requirements you may have.
-                         You can reach out to us by emailing us or calling us at +44 747 8213 985. If you know your exact requirements before 
-                         contacting us, please let us know what they are, and we can offer a transparent quote beforehand for you to make a 
-                         fully informed decision. If you do not know all the requirement, please still contact us and we will be happy to work
-                          with you to ensure we meet the vision you have. We’d love to get an opportunity to collaborate with you!</p>
+                    <p>We are leading technology solutions providing company all over the world doing over 10 years.</p>
                 </div>
 
-                <div class="row">
-                    <div class="col-lg-3 col-sm-6">
+                <div class="row justify-content-center">
+                    <div class="col-lg-3 col-md-6">
                         <div class="single-choose-card" data-aos="fade-up" data-aos-delay="50" data-aos-duration="500" data-aos-once="true">
                             <div class="choose-image" data-tilt>
-                                <a href="services-details.html"><img src="assets/images/choose/choose-1.png" alt="image"></a>
+                                <a href="/Services.php"><img src="assets/images/choose/choose-1.png" alt="image"></a>
                             </div>
                             <div class="choose-content">
                                 <h3>
-                                    <a href="services-details.html">Mobile Apps</a>
+                                    <a href="/Services.php">Commitment To Work</a>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet conset sadipscing elitr sed diam nonumy eirm od tempor invidunt ut labore.</p>
+                                <p>Our dedication and commitment towards our work is unparalleled. Our passion speaks for itself through the quality of our work.</p>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-lg-3 col-sm-6">
+                    <div class="col-lg-3 col-md-6">
                         <div class="single-choose-card" data-aos="fade-up" data-aos-delay="60" data-aos-duration="600" data-aos-once="true">
                             <div class="choose-image" data-tilt>
-                                <a href="services-details.html"><img src="assets/images/choose/choose-2.png" alt="image"></a>
+                                <a href="/Services.php"><img src="assets/images/choose/choose-2.png" alt="image"></a>
                             </div>
                             <div class="choose-content">
                                 <h3>
-                                    <a href="services-details.html">Branding Strategy</a>
+                                    <a href="/Services.php">Cost Effective</a>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet conset sadipscing elitr sed diam nonumy eirm od tempor invidunt ut labore.</p>
+                                <p>Our solutions are strategically streamlined to provide our valued clients with affordable services to maximize their return on investment.</p>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-lg-3 col-sm-6">
+                    <div class="col-lg-3 col-md-6">
                         <div class="single-choose-card" data-aos="fade-up" data-aos-delay="70" data-aos-duration="700" data-aos-once="true">
                             <div class="choose-image" data-tilt>
-                                <a href="services-details.html"><img src="assets/images/choose/choose-3.png" alt="image"></a>
+                                <a href="/Services.php"><img src="assets/images/choose/choose-3.png" alt="image"></a>
                             </div>
                             <div class="choose-content">
                                 <h3>
-                                    <a href="services-details.html">Graphic Design</a>
+                                    <a href="/Services.php">Solid Team Work</a>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet conset sadipscing elitr sed diam nonumy eirm od tempor invidunt ut labore.</p>
+                                <p>Our talented team of experts combine their years of experience to provide our clients with the best possible services.</p>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-lg-3 col-sm-6">
+                    <div class="col-lg-3 col-md-6">
                         <div class="single-choose-card" data-aos="fade-up" data-aos-delay="80" data-aos-duration="800" data-aos-once="true">
                             <div class="choose-image" data-tilt>
-                                <a href="services-details.html"><img src="assets/images/choose/choose-4.png" alt="image"></a>
+                                <a href="/Services.php"><img src="assets/images/choose/choose-4.png" alt="image"></a>
                             </div>
                             <div class="choose-content">
                                 <h3>
-                                    <a href="services-details.html">Search Optimization</a>
+                                    <a href="services-details.html">Excellent Customer </a>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet conset sadipscing elitr sed diam nonumy eirm od tempor invidunt ut labore.</p>
+                                <p>At Tech Solutions Pro, we aim to provide world class customer services to ensure our clients are fully satisfied!.</p>
                             </div>
                         </div>
                     </div>
@@ -412,11 +407,11 @@
                         <div class="testimonials-section-content" data-aos="fade-right" data-aos-delay="80" data-aos-duration="800" data-aos-once="true">
                             <span>TESTIMONIALS</span>
                             <h3>Some <b>Sweet Talk</b> Of Our Happy Clients <span class="overlay"></span></h3>
-                            <p>We are leading technology solutions providing company all over the world doing over 40 years lorem ipsum dolor sit amet.</p>
-                            <p>We are leading technology solutions providing company all over the world doing over 40 years. lorem ipsum dolor sit amet consetetur.</p>
+                            <p>We have numerous years of hands-on experience in Project Management including planning, execution, monitoring, scheduling and estimation of medium to large sized projects involving complex business solutions.</p>
+                            <p>We are expert in analyzing client's business and requirements, suggesting and implementing state of art IT processes to deliver high quality business solutions.</p>
                             
                             <div class="testimonials-btn">
-                                <a href="about-style-1.html" class="default-btn">Know More About Us</a>
+                                <a href="/About_us" class="default-btn">Know More About Us</a>
                             </div>
                         </div>
                     </div>
