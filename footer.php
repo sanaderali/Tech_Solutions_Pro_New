@@ -1,5 +1,64 @@
- <!-- End Footer Area -->
- <footer class="footer-area with-black-background pt-100">
+
+
+
+<!-- Start Overview Area -->
+<div class="overview-area pt-100 pb-75">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-3 col-md-6">
+                        <div class="overview-card">
+                            <h3>Call Us</h3>
+                            <span>
+                                <a href="tel:9901234567">+990-123-4567</a>
+                            </span>
+
+                            <div class="overview-shape">
+                                <img src="assets/images/overview/overview-shape.png" alt="image">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6">
+                        <div class="overview-card">
+                            <h3>Email Us</h3>
+                            <span>
+                                <a href="https://templates.envytheme.com/cdn-cgi/l/email-protection#99f1f0faf6e3fcd9fef4f8f0f5b7faf6f4"><span class="__cf_email__" data-cfemail="056d6c666a7f60456268646c692b666a68">[email&#160;protected]</span></a>
+                            </span>
+
+                            <div class="overview-shape">
+                                <img src="assets/images/overview/overview-shape.png" alt="image">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6">
+                        <div class="overview-card">
+                            <h3>Tech Support</h3>
+                            <span>
+                                <a href="tel:15143125678">+1 (514) 312-5678</a>
+                            </span>
+
+                            <div class="overview-shape">
+                                <img src="assets/images/overview/overview-shape.png" alt="image">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6">
+                        <div class="overview-card">
+                            <h3>Visit Us</h3>
+                            <span>413 North Las Vegas, NV 89032</span>
+
+                            <div class="overview-shape">
+                                <img src="assets/images/overview/overview-shape.png" alt="image">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Overview Area -->
+<footer class="footer-area with-black-background margin-zero pt-100">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-3 col-md-6">
@@ -90,7 +149,7 @@
                     <div class="copyright-area-content">
                         <p>
                             Copyright @<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear())</script> Coze All Rights Reserved by
-                            <a href="#" target="_blank"> Tech Solutions Pro</a>
+                            <a href="https://techsolutionspro.co.uk > techsolutionspro.co.uk</a>
                         </p>
                     </div>
                 </div>
@@ -111,30 +170,3 @@
         <div class="go-top">
             <i class="ri-arrow-up-s-line"></i>
         </div>
-        <!-- End Go Top Area -->
-        
-        <!-- Links of JS files -->
-        <script src="assets/js/jquery.min.js"></script>
-        <script src="assets/js/bootstrap.bundle.min.js"></script>
-        <script src="assets/js/jquery.meanmenu.js"></script> 
-        <script src="assets/js/owl.carousel.min.js"></script>
-        <script src="assets/js/jquery.appear.js"></script>
-        <script src="assets/js/odometer.min.js"></script>
-        <script src="assets/js/jquery.magnific-popup.min.js"></script>
-        <script src="assets/js/fancybox.min.js"></script>
-        <script src="assets/js/tweenmax.min.js"></script>
-        <script src="assets/js/ScrollMagic.min.js"></script>
-        <script src="assets/js/animation.gsap.min.js"></script>
-        <script src="assets/js/debug.addIndicators.min.js"></script>
-        <script src="assets/js/mixitup.min.js"></script>
-        <script src="assets/js/nice-select.min.js"></script>
-        <script src="assets/js/tilt.jquery.min.js"></script>
-        <script src="assets/js/parallax.min.js"></script>
-		<script src="assets/js/jquery.ajaxchimp.min.js"></script>
-		<script src="assets/js/form-validator.min.js"></script>
-        <script src="assets/js/contact-form-script.js"></script>
-        <script src="assets/js/aos.js"></script>
-        <script src="assets/js/wow.min.js"></script>
-        <script src="assets/js/main.js"></script>
-    </body>
-</html>
