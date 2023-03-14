@@ -6,7 +6,16 @@ Footer Area CSS
   z-index: 1;
   overflow: hidden;
 }
-
+.engage-class {
+  background: radial-gradient(circle, #104a8e, #104a8e, #3b8fcd, #3b8fcd, #104a8e);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.office-heading{
+  color:white !important;
+  padding-bottom:0px !important;
+  font-weight: 600;
+}
 .footer-area.with-black-background {
   background-color: var(--black-color);
   margin-left: 10px;

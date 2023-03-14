@@ -11,21 +11,21 @@
                         </a>
                         <div class="sidebar-content">
                             <h3>About Us</h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p>We have demonstrated business acumen in transforming the legacy operation to the highly efficient processes through advanced tools and techniques.</p>
 
                             <div class="sidebar-btn">
-                                <a href="contact.html" class="default-btn">Let’s Talk</a>
+                                <a href="/Contact.php" class="default-btn">Let’s Talk</a>
                             </div>
                         </div>
                         <div class="sidebar-contact-info">
                             <h3>Contact Information</h3>
 
                             <ul class="info-list">
-                                <li><i class="ri-phone-fill"></i> <a href="tel:9901234567">+990-123-4567</a></li>
+                                <li><i class="ri-phone-fill"></i> <a href="tel:+447478213985">+447478213985</a></li>
                                 
-                                <li><i class="ri-mail-line"></i> <a href="https://templates.envytheme.com/cdn-cgi/l/email-protection#d1b2beabb491b6bcb0b8bdffb2bebc"><span class="__cf_email__" data-cfemail="9dfef2e7f8ddfaf0fcf4f1b3fef2f0">[email&#160;protected]</span></a></li>
+                                <li><i class="ri-mail-line"></i> <a href="mailto:">sales@techsolutionspro.co.uk</a></li>
 
-                                <li><i class="ri-map-pin-line"></i> 413 North Las Vegas, NV 89032</li>
+                                <li><i class="ri-map-pin-line"></i>507 Alfreton Rd, Nottingham NG7 5NH, United Kingdom.</li>
                             </ul>
                         </div>
                         <ul class="sidebar-social-list">
