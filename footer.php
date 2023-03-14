@@ -148,8 +148,8 @@
                 <div class="container">
                     <div class="copyright-area-content">
                         <p>
-                            Copyright @<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear())</script> Coze All Rights Reserved by
-                            <a href="https://techsolutionspro.co.uk > techsolutionspro.co.uk</a>
+                            Copyright @<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear())</script>  All Rights Reserved by
+                            <a href="https://techsolutionspro.co.uk"> techsolutionspro.co.uk </a>
                         </p>
                     </div>
                 </div>
@@ -166,7 +166,37 @@
         </footer>
         <!-- End Footer Area -->  
 
+       
         <!-- Start Go Top Area -->
         <div class="go-top">
             <i class="ri-arrow-up-s-line"></i>
         </div>
+        <!-- End Go Top Area -->
+        
+        <!-- Links of JS files -->
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/js/jquery.meanmenu.js"></script> 
+        <script src="assets/js/owl.carousel.min.js"></script>
+        <script src="assets/js/jquery.appear.js"></script>
+        <script src="assets/js/odometer.min.js"></script>
+        <script src="assets/js/jquery.magnific-popup.min.js"></script>
+        <script src="assets/js/fancybox.min.js"></script>
+        <script src="assets/js/tweenmax.min.js"></script>
+        <script src="assets/js/ScrollMagic.min.js"></script>
+        <script src="assets/js/animation.gsap.min.js"></script>
+        <script src="assets/js/debug.addIndicators.min.js"></script>
+        <script src="assets/js/mixitup.min.js"></script>
+        <script src="assets/js/nice-select.min.js"></script>
+        <script src="assets/js/tilt.jquery.min.js"></script>
+        <script src="assets/js/parallax.min.js"></script>
+		<script src="assets/js/jquery.ajaxchimp.min.js"></script>
+		<script src="assets/js/form-validator.min.js"></script>
+        <script src="assets/js/contact-form-script.js"></script>
+        <script src="assets/js/aos.js"></script>
+        <script src="assets/js/wow.min.js"></script>
+        <script src="assets/js/main.js"></script>
+    </body>
+
+<!-- Mirrored from templates.envytheme.com/coze/default/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Feb 2023 07:30:21 GMT -->
+</html>

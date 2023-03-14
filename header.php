@@ -118,7 +118,7 @@
                             <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                                 <ul class="navbar-nav ms-auto">
                                     <li class="nav-item">
-                                        <a href="/index.php" class="nav-link active">
+                                        <a href="/index.php" class="nav-link">
                                             Home 
                                             <!-- <i class="ri-arrow-down-s-line"></i> -->
                                         </a>

@@ -262,65 +262,6 @@
                 </div>
             </div>
         </div>
-        <!-- End Talk Area -->
-
-        <!-- Start Overview Area -->
-        <div class="overview-area pt-100 pb-75">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-lg-3 col-md-6">
-                        <div class="overview-card">
-                            <h3>Call Us</h3>
-                            <span>
-                                <a href="tel:9901234567">+990-123-4567</a>
-                            </span>
-
-                            <div class="overview-shape">
-                                <img src="assets/images/overview/overview-shape.png" alt="image">
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6">
-                        <div class="overview-card">
-                            <h3>Email Us</h3>
-                            <span>
-                                <a href="https://templates.envytheme.com/cdn-cgi/l/email-protection#b6dedfd5d9ccd3f6d1dbd7dfda98d5d9db"><span class="__cf_email__" data-cfemail="6a02030905100f2a0d070b030644090507">[email&#160;protected]</span></a>
-                            </span>
-
-                            <div class="overview-shape">
-                                <img src="assets/images/overview/overview-shape.png" alt="image">
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6">
-                        <div class="overview-card">
-                            <h3>Tech Support</h3>
-                            <span>
-                                <a href="tel:15143125678">+1 (514) 312-5678</a>
-                            </span>
-
-                            <div class="overview-shape">
-                                <img src="assets/images/overview/overview-shape.png" alt="image">
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6">
-                        <div class="overview-card">
-                            <h3>Visit Us</h3>
-                            <span>413 North Las Vegas, NV 89032</span>
-
-                            <div class="overview-shape">
-                                <img src="assets/images/overview/overview-shape.png" alt="image">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Overview Area -->
-
+        <!-- End Talk Area --> 
 
 <?php include ('footer.php'); ?>

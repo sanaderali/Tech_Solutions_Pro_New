@@ -6,74 +6,13 @@
                 <div class="page-banner-content" data-aos="fade-right" data-aos-delay="50" data-aos-duration="500" data-aos-once="true">
                     <h2>Contact</h2>
 
-                    <ul>
-                        <li>
-                            <a href="/Contact.php">Home</a>
-                        </li>
-                        <li>Contact</li>
-                    </ul>
+                    
                 </div>
             </div>
         </div>
         <!-- End Page Banner Area -->
 
-        <!-- Start Overview Area -->
-        <div class="overview-area pt-100 pb-75">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-lg-3 col-md-6">
-                        <div class="overview-card">
-                            <h3>Call Us</h3>
-                            <span>
-                                <a href="tel:9901234567">+990-123-4567</a>
-                            </span>
-
-                            <div class="overview-shape">
-                                <img src="assets/images/overview/overview-shape.png" alt="image">
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6">
-                        <div class="overview-card">
-                            <h3>Email Us</h3>
-                            <span>
-                                <a href="https://templates.envytheme.com/cdn-cgi/l/email-protection#d7bfbeb4b8adb297b0bab6bebbf9b4b8ba"><span class="__cf_email__" data-cfemail="a8c0c1cbc7d2cde8cfc5c9c1c486cbc7c5">[email&#160;protected]</span></a>
-                            </span>
-
-                            <div class="overview-shape">
-                                <img src="assets/images/overview/overview-shape.png" alt="image">
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6">
-                        <div class="overview-card">
-                            <h3>Tech Support</h3>
-                            <span>
-                                <a href="tel:15143125678">+1 (514) 312-5678</a>
-                            </span>
-
-                            <div class="overview-shape">
-                                <img src="assets/images/overview/overview-shape.png" alt="image">
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6">
-                        <div class="overview-card">
-                            <h3>Visit Us</h3>
-                            <span>413 North Las Vegas, NV 89032</span>
-
-                            <div class="overview-shape">
-                                <img src="assets/images/overview/overview-shape.png" alt="image">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Overview Area -->
+       
 
         <!-- Start Talk Area -->
         <div class="talk-area ptb-100">
