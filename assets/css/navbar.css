@@ -2,7 +2,7 @@
 Topbar Area CSS
 =================================================*/
 .topbar-area {
-  background-image: url(../images/topbar-bg.jpg);
+  background-color:#3b8fcd;
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -45,7 +45,7 @@ Topbar Area CSS
 }
 
 .topbar-information li span {
-  color: #FB64BF;
+  color: #000;
   font-weight: 600;
 }
 
