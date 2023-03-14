@@ -6,12 +6,7 @@
                 <div class="page-banner-content" data-aos="fade-right" data-aos-delay="50" data-aos-duration="500" data-aos-once="true">
                     <h2>Our Blog</h2>
 
-                    <ul>
-                        <li>
-                            <a href="/Blog.php">Home</a>
-                        </li>
-                        <li>Blog Style Two</li>
-                    </ul>
+                    
                 </div>
             </div>
         </div>
