@@ -8,6 +8,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
         <!-- Links of CSS files -->
+        <link rel="stylesheet" href="assets/css/custom-style.css">
         <link rel="stylesheet" href="assets/css/bootstrap.min.css">
         <link rel="stylesheet" href="assets/css/aos.css">
         <link rel="stylesheet" href="assets/css/animate.min.css">
@@ -46,24 +47,24 @@
          <div class="topbar-area">
             <div class="container-fluid">
                 <div class="row align-items-center">
-                    <div class="col-lg-9 col-md-9">
+                    <div class="col-lg-12 col-md-12 text-center">
                         <ul class="topbar-information">
                             <li>
-                                <i class="ri-phone-line"></i>
-                                <span>Phone: <a href="tel:9901234567">+990-123-4567</a></span>
+                                <i class="ri-phone-line text-dark"></i>
+                                <span class="text-dark">Phone: <a href="tel:+447478213985">+447478213985</a></span>
                             </li>
                             <li>
-                                <i class="ri-mail-line"></i>
-                                <span>Mail: <a href="https://templates.envytheme.com/cdn-cgi/l/email-protection#c9a1a0aaa6b3ac89aea4a8a0a5e7aaa6a4"><span class="__cf_email__" data-cfemail="e78f8e84889d82a7808a868e8bc984888a">[email&#160;protected]</span></a></span>
+                                <i class="ri-mail-line text-dark"></i>
+                                <span class="text-dark">Mail: <a href="mailto:sales@techsolutionspro.co.uk">sales@techsolutionspro.co.uk</a></span>
                             </li>
                             <li>
-                                <i class="ri-map-pin-line"></i>
-                                <span>Address:</span> 413 North Las Vegas, NV 89032
+                                <i class="ri-map-pin-line text-dark"></i>
+                                <span class="text-dark">Address:</span> 507 Alfreton Rd, Nottingham NG7 5NH, United Kingdom.
                             </li>
                         </ul>
                     </div>
 
-                    <div class="col-lg-3 col-md-3">
+                    <!-- <div class="col-lg-3 col-md-3">
                         <ul class="topbar-action">
                             <li class="dropdown language-option">
                                 <button class="dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -86,7 +87,7 @@
                                 </div>
                             </li>
                         </ul>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>

@@ -4,7 +4,7 @@
 <div class="page-banner-area jarallax" data-jarallax='{"speed": 0.3}'>
             <div class="container">
                 <div class="page-banner-content" data-aos="fade-right" data-aos-delay="50" data-aos-duration="500" data-aos-once="true">
-                    <h2>About Style One</h2>
+                    <h2>About Us</h2>
 
                     <ul>
                         <li>
@@ -30,8 +30,10 @@
                         <div class="about-content" data-aos="fade-up" data-aos-delay="80" data-aos-duration="800" data-aos-once="true">
                             <span>WHO WE ARE</span>
                             <h3>We Are All In One IT Solution & Technology Company <span class="overlay"></span></h3>
-                            <p>We are leading technology solutions providing company all over the world doing over 40 years lorem ipsum dolor sit amet.</p>
-                            <p>We are leading technology solutions providing company all over the world doing over 40 years. Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam non umy eirmod tempor invidunt ut labore.</p>
+                            <p>Tech solutions pro is a leading IT solutions provider based in Nottingham, United Kingdom. With our unparalleled
+                                 dedication towards delivering unwavering quality, we have helped numerous clients grow their business organically
+                                  by leveraging modern trends and emerging state of the art technologies. Our team of talented specialists is highly
+                                   articulate, demonstrates exceptional relationship building and impeccable communication skills.</p>
                             <div class="about-btn">
                                 <a href="about-style-1.html" class="default-btn">Know More About Us</a>
                             </div>
@@ -103,7 +105,11 @@
                         <div class="about-wrap-content" data-aos="fade-up" data-aos-delay="80" data-aos-duration="800" data-aos-once="true">
                             <span>OUR GOAL</span>
                             <h3>Your Trusted Partner For All IT Solutions <span class="overlay"></span></h3>
-                            <p>We are leading technology solutions providing company all over the world doing over 40 years. Lorem ipsum dolor sit amet consetetur sadipscing elitre sed diam non umy eirmod tempor invidunt ut labore.</p>
+                            <p>We have demonstrated business acumen in transforming the legacy operation to the highly efficient processes through 
+                                advanced tools and techniques. We have proven our ability in improving operations, enhancing business growth & 
+                                maximizing profits through our achievements in management, internal controls & productivity improvements. We 
+                                specialize in the migration of less effective IT systems to new technologies, for enhancement of productivity 
+                                and cost saving.</p>
                         </div>
                     </div>
                 </div>
@@ -149,22 +155,22 @@
         <div class="choose-area bg-with-F5F5F5-color pt-100 pb-75">
             <div class="container">
                 <div class="section-title">
-                    <span>WHY CHOOSE US</span>
+                    <span>What We Do </span>
                     <h2>We Help You To <b>Increase</b> Your Sale Through Solutions <span class="overlay"></span></h2>
-                    <p>We are leading technology solutions providing company all over the world doing over 40 years lorem ipsum dolor sit amet.</p>
+                    <p>We are leading technology solutions providing company all over the world doing over 10 years.</p>
                 </div>
 
                 <div class="row justify-content-center">
                     <div class="col-lg-3 col-md-6">
                         <div class="single-choose-card" data-aos="fade-up" data-aos-delay="50" data-aos-duration="500" data-aos-once="true">
                             <div class="choose-image" data-tilt>
-                                <a href="services-details.html"><img src="assets/images/choose/choose-1.png" alt="image"></a>
+                                <a href="/Services.php"><img src="assets/images/choose/choose-1.png" alt="image"></a>
                             </div>
                             <div class="choose-content">
                                 <h3>
-                                    <a href="services-details.html">Mobile Apps</a>
+                                    <a href="/Services.php">Commitment To Work</a>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet conset sadipscing elitr sed diam nonumy eirm od tempor invidunt ut labore.</p>
+                                <p>Our dedication and commitment towards our work is unparalleled. Our passion speaks for itself through the quality of our work.</p>
                             </div>
                         </div>
                     </div>
@@ -172,13 +178,13 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="single-choose-card" data-aos="fade-up" data-aos-delay="60" data-aos-duration="600" data-aos-once="true">
                             <div class="choose-image" data-tilt>
-                                <a href="services-details.html"><img src="assets/images/choose/choose-2.png" alt="image"></a>
+                                <a href="/Services.php"><img src="assets/images/choose/choose-2.png" alt="image"></a>
                             </div>
                             <div class="choose-content">
                                 <h3>
-                                    <a href="services-details.html">Branding Strategy</a>
+                                    <a href="/Services.php">Cost Effective</a>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet conset sadipscing elitr sed diam nonumy eirm od tempor invidunt ut labore.</p>
+                                <p>Our solutions are strategically streamlined to provide our valued clients with affordable services to maximize their return on investment.</p>
                             </div>
                         </div>
                     </div>
@@ -186,13 +192,13 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="single-choose-card" data-aos="fade-up" data-aos-delay="70" data-aos-duration="700" data-aos-once="true">
                             <div class="choose-image" data-tilt>
-                                <a href="services-details.html"><img src="assets/images/choose/choose-3.png" alt="image"></a>
+                                <a href="/Services.php"><img src="assets/images/choose/choose-3.png" alt="image"></a>
                             </div>
                             <div class="choose-content">
                                 <h3>
-                                    <a href="services-details.html">Graphic Design</a>
+                                    <a href="/Services.php">Solid Team Work</a>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet conset sadipscing elitr sed diam nonumy eirm od tempor invidunt ut labore.</p>
+                                <p>Our talented team of experts combine their years of experience to provide our clients with the best possible services.</p>
                             </div>
                         </div>
                     </div>
@@ -200,13 +206,13 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="single-choose-card" data-aos="fade-up" data-aos-delay="80" data-aos-duration="800" data-aos-once="true">
                             <div class="choose-image" data-tilt>
-                                <a href="services-details.html"><img src="assets/images/choose/choose-4.png" alt="image"></a>
+                                <a href="/Services.php"><img src="assets/images/choose/choose-4.png" alt="image"></a>
                             </div>
                             <div class="choose-content">
                                 <h3>
-                                    <a href="services-details.html">Search Optimization</a>
+                                    <a href="services-details.html">Excellent Customer </a>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet conset sadipscing elitr sed diam nonumy eirm od tempor invidunt ut labore.</p>
+                                <p>At Tech Solutions Pro, we aim to provide world class customer services to ensure our clients are fully satisfied!.</p>
                             </div>
                         </div>
                     </div>
@@ -234,7 +240,7 @@
 
                         <div class="skill-bar" data-percentage="92%" data-aos="fade-up" data-aos-delay="50" data-aos-duration="500" data-aos-once="true">
                             <p class="progress-title-holder">
-                                <span class="progress-title">Software Development</span>
+                                <span class="progress-title">Website Development</span>
                                 <span class="progress-number-wrapper">
                                     <span class="progress-number-mark">
                                         <span class="percent"></span>
@@ -262,9 +268,9 @@
                             </div>
                         </div>
 
-                        <div class="skill-bar" data-percentage="70%" data-aos="fade-up" data-aos-delay="70" data-aos-duration="700" data-aos-once="true">
+                        <div class="skill-bar" data-percentage="100%" data-aos="fade-up" data-aos-delay="70" data-aos-duration="700" data-aos-once="true">
                             <p class="progress-title-holder">
-                                <span class="progress-title">Artificial Intelligence</span>
+                                <span class="progress-title">Social Media Marketing</span>
                                 <span class="progress-number-wrapper">
                                     <span class="progress-number-mark">
                                         <span class="percent"></span>
@@ -277,9 +283,9 @@
                             </div>
                         </div>
 
-                        <div class="skill-bar" data-percentage="45%" data-aos="fade-up" data-aos-delay="80" data-aos-duration="800" data-aos-once="true">
+                        <div class="skill-bar" data-percentage="100%" data-aos="fade-up" data-aos-delay="80" data-aos-duration="800" data-aos-once="true">
                             <p class="progress-title-holder">
-                                <span class="progress-title">Cyber Security</span>
+                                <span class="progress-title">Graphic Services</span>
                                 <span class="progress-number-wrapper">
                                     <span class="progress-number-mark">
                                         <span class="percent"></span>
@@ -293,7 +299,7 @@
                         </div>
 
                         <div class="skill-bar-btn" data-aos="fade-up" data-aos-delay="90" data-aos-duration="900" data-aos-once="true">
-                            <a href="#" class="default-btn">Explore More</a>
+                            <a href="/Services.php" class="default-btn">Explore More</a>
                         </div>
                     </div>
 
@@ -319,7 +325,7 @@
         <!-- End Skill Area -->
 
         <!-- Start Pricing Area -->
-        <div class="pricing-area with-black-background margin-zero pt-100 pb-75">
+        <!-- <div class="pricing-area with-black-background margin-zero pt-100 pb-75">
             <div class="container">
                 <div class="section-title">
                     <span>PRICING</span>
@@ -393,7 +399,7 @@
             <div class="pricing-shape-2">
                 <img src="assets/images/pricing/pricing-shape-2.png" alt="image">
             </div>
-        </div>
+        </div> -->
         <!-- End Pricing Area -->
 
         <!-- Start Talk Area -->
@@ -414,7 +420,7 @@
                         <div class="talk-content margin-zero">
                             <span>LET'S TALK</span>
                             <h3>We Would Like To Hear From You Any Question <span class="overlay"></span></h3>
-                            <p>Lorem ipsum dolor sit amet consetetur sadipscing elitre sed diam non umy eirmod tempor invidunt ut labore.</p>
+                            <p>Feel free to ask any question.</p>
 
                             <form id="contactFormTwo">
                                 <div class="row">

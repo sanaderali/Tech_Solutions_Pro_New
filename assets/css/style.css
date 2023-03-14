@@ -1264,8 +1264,6 @@ Services Area CSS
 }
 
 .services-area.with-radius {
-  margin-left: 10px;
-  margin-right: 10px;
   border-radius: 15px;
   background-color: var(--black-color);
   overflow: hidden;
@@ -1415,7 +1413,7 @@ Services Area CSS
 }
 
 .services-item .services-content .services-btn {
-  background: var(--btn-gradient-color);
+  background: #3b8fcd;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-weight: bold;
@@ -1435,7 +1433,7 @@ Services Area CSS
   left: 0;
   width: 20px;
   height: 1.5px;
-  background: var(--btn-gradient-color);
+  background: #3b8fcd;
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
   border-radius: 5px;
@@ -1909,8 +1907,6 @@ Projects Area CSS
 
 .projects-area.with-black-background {
   background-color: var(--black-color);
-  margin-left: 10px;
-  margin-right: 10px;
   border-radius: 15px;
   overflow: hidden;
   padding-top: 200px;

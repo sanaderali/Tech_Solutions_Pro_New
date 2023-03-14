@@ -8,12 +8,12 @@
                         <div class="row align-items-center">
                             <div class="col-lg-7 col-md-12">
                                 <div class="main-slides-content">
-                                    <span data-aos="fade-right" data-aos-delay="70" data-aos-duration="700" data-aos-once="true">WE ARE LEADING TECHNOLOGY SOLUTIONS PROVIDING COMPANY</span>
-                                    <h1 data-aos="fade-right" data-aos-delay="70" data-aos-duration="700" data-aos-once="true">We Make The Best IT Solutions <span class="overlay"></span></h1>
-                                    <p data-aos="fade-right" data-aos-delay="70" data-aos-duration="700" data-aos-once="true">We are leading technology solutions providing company all over the world doing over 40 years. Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor.</p>
+                                    <span data-aos="fade-right" data-aos-delay="70" data-aos-duration="700" data-aos-once="true">Welcome to </span>
+                                    <h1 data-aos="fade-right" data-aos-delay="70" data-aos-duration="700" data-aos-once="true">Tech Solutions Pro <span class="overlay"></span></h1>
+                                    <p data-aos="fade-right" data-aos-delay="70" data-aos-duration="700" data-aos-once="true">We Provide IT Solutions all accross the globe</p>
                                     
                                     <div class="slides-btn" data-aos="fade-right" data-aos-delay="70" data-aos-duration="700" data-aos-once="true">
-                                        <a href="contact.html" class="default-btn">Get Started</a>
+                                        <a href="/Contact.php" class="default-btn">Get Started</a>
                                     </div>
                                 </div>
                             </div>
@@ -32,9 +32,9 @@
                         <div class="row align-items-center">
                             <div class="col-lg-7 col-md-12">
                                 <div class="main-slides-content">
-                                    <span data-aos="fade-right" data-aos-delay="70" data-aos-duration="700" data-aos-once="true">WE ARE LEADING TECHNOLOGY SOLUTIONS PROVIDING COMPANY</span>
-                                    <h1 data-aos="fade-right" data-aos-delay="70" data-aos-duration="700" data-aos-once="true">Best IT Services For Your Business <span class="overlay"></span></h1>
-                                    <p data-aos="fade-right" data-aos-delay="70" data-aos-duration="700" data-aos-once="true">We are leading technology solutions providing company all over the world doing over 40 years. Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor.</p>
+                                    <span data-aos="fade-right" data-aos-delay="70" data-aos-duration="700" data-aos-once="true">Tech Solutions Pro</span>
+                                    <h1 data-aos="fade-right" data-aos-delay="70" data-aos-duration="700" data-aos-once="true">Development Services<span class="overlay"></span></h1>
+                                    <p data-aos="fade-right" data-aos-delay="70" data-aos-duration="700" data-aos-once="true">We Provide Web and Mobile Application Development Services</p>
                                     
                                     <div class="slides-btn" data-aos="fade-right" data-aos-delay="70" data-aos-duration="700" data-aos-once="true">
                                         <a href="contact.html" class="default-btn">Get Started</a>
@@ -128,10 +128,9 @@
                         <div class="about-content" data-aos="fade-up" data-aos-delay="80" data-aos-duration="800" data-aos-once="true">
                             <span>WHO WE ARE</span>
                             <h3>We Are <b>All In One</b> IT Solution & Technology Company <span class="overlay"></span></h3>
-                            <p>We are leading technology solutions providing company all over the world doing over 40 years lorem ipsum dolor sit amet.</p>
-                            <p>We are leading technology solutions providing company all over the world doing over 40 years. Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam non umy eirmod tempor invidunt ut labore.</p>
+                            <p>Tech solutions pro is a leading IT solutions provider based in Nottingham, United Kingdom. With our unparalleled dedication towards delivering unwavering quality, we have helped numerous clients grow their business organically by leveraging modern trends and emerging state of the art technologies. Our team of talented specialists is highly articulate, demonstrates exceptional relationship building and impeccable communication skills.</p>
                             <div class="about-btn">
-                                <a href="about-style-1.html" class="default-btn">Know More About Us</a>
+                                <a href="/About_us.php" class="default-btn">Know More About Us</a>
                             </div>
                         </div>
                     </div>
@@ -151,9 +150,11 @@
                         <div class="services-section-content" data-aos="fade-down" data-aos-delay="80" data-aos-duration="800" data-aos-once="true">
                             <span>SERVICES</span>
                             <h3>We Provide the Best Quality <b>Services</b> <span class="overlay"></span></h3>
-                            <p>We are technology solutions providing company all over the world doing over 40 years.</p>
+                            <p>We have numerous years of hands-on experience in Project Management including planning, execution, monitoring,
+                                 scheduling and estimation of medium to large sized projects involving complex business solutions. We are expert
+                                  in analyzing client's business and requirements, suggesting and implementing state of art IT processes to deliver high quality business solutions.</p>
                             <div class="services-section-btn">
-                                <a href="services-style-1.html" class="default-btn">Explore All Services</a>
+                                <a href="/Services.php" class="default-btn">Explore All Services</a>
                             </div>
                         </div>
                     </div>
@@ -168,8 +169,8 @@
                                     <h3>
                                         <a href="services-details.html">Software Development</a>
                                     </h3>
-                                    <p>Lorem ipsum dolor sit amet con setetur sadipscing elitr sed…</p>
-                                    <a href="services-details.html" class="services-btn">View More</a>
+                                    <p>Software development refers to a set of computer science activities dedicated to the process of creating, designing, deploying and supporting software.</p>
+                                    <a href="#" class="services-btn">View More</a>
                                 </div>
                             </div>
 
@@ -179,20 +180,20 @@
                                 </div>
                                 <div class="services-content">
                                     <h3>
-                                        <a href="services-details.html">App Development</a>
+                                        <a href="#">App Development</a>
                                     </h3>
                                     <p>Lorem ipsum dolor sit amet con setetur sadipscing elitr sed…</p>
-                                    <a href="services-details.html" class="services-btn">View More</a>
+                                    <a href="#" class="services-btn">View More</a>
                                 </div>
                             </div>
 
                             <div class="services-item">
                                 <div class="services-image">
-                                    <a href="services-details.html"><img src="assets/images/services/services-3.jpg" alt="image"></a>
+                                    <a href="#"><img src="assets/images/services/services-3.jpg" alt="image"></a>
                                 </div>
                                 <div class="services-content">
                                     <h3>
-                                        <a href="services-details.html">Web Development</a>
+                                        <a href="#">Web Development</a>
                                     </h3>
                                     <p>Lorem ipsum dolor sit amet con setetur sadipscing elitr sed…</p>
                                     <a href="services-details.html" class="services-btn">View More</a>
@@ -208,7 +209,7 @@
                                         <a href="services-details.html">Analytic Solutions</a>
                                     </h3>
                                     <p>Lorem ipsum dolor sit amet con setetur sadipscing elitr sed…</p>
-                                    <a href="services-details.html" class="services-btn">View More</a>
+                                    <a href="#" class="services-btn">View More</a>
                                 </div>
                             </div>
                         </div>
@@ -224,7 +225,12 @@
                 <div class="section-title">
                     <span>WHY CHOOSE US</span>
                     <h2>We Help You To <b>Increase</b> Your Sale Through Solutions <span class="overlay"></span></h2>
-                    <p>We are leading technology solutions providing company all over the world doing over 40 years lorem ipsum dolor sit amet.</p>
+                    <p>With our emphasis on establishing unbeatable quality, our team of experts go above and beyond in order to ensure you 
+                        are completely satisfied. Our team is fully equipped to handle any diverse variety of any requirements you may have.
+                         You can reach out to us by emailing us or calling us at +44 747 8213 985. If you know your exact requirements before 
+                         contacting us, please let us know what they are, and we can offer a transparent quote beforehand for you to make a 
+                         fully informed decision. If you do not know all the requirement, please still contact us and we will be happy to work
+                          with you to ensure we meet the vision you have. We’d love to get an opportunity to collaborate with you!</p>
                 </div>
 
                 <div class="row">

@@ -65,11 +65,90 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-3 col-md-6">
                         <div class="single-footer-widget" data-aos="fade-up" data-aos-delay="50" data-aos-duration="500" data-aos-once="true">
-                            <div class="widget-logo">
-                                <a href="index.html"><img src="assets/images/logo.png" alt="image"></a>
-                            </div>
-                            <p>Lorem ipsum dolor sit amet consetetur sadi scing elitr sed diam nonumy.</p>
+                            <h1 class="engage-class">ENGAGE & EXPERIENCE</h1>
+                            
+                            
+                            <p class="">507 Alfreton Rd, Nottingham NG7 5NH, United Kingdom.</p>
+                            <h5 class="office-heading">UK Office</h5>
 
+                            
+                            <p class="">Office no 06, Sharjah Center G-10 Markaz, Islamabad, Pakistan.</p>
+                            <h5 class="office-heading">PAKISTAN Office</h5>
+
+                            
+                            <!-- <ul class="widget-social">
+                                <li>
+                                    <a href="https://www.facebook.com/EnvyTheme" target="_blank">
+                                        <i class="ri-facebook-fill"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://twitter.com/?lang=en" target="_blank">
+                                        <i class="ri-twitter-fill"></i>
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a href="https://www.youtube.com/" target="_blank">
+                                        <i class="ri-youtube-fill"></i>
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a href="https://vimeo.com/" target="_blank">
+                                        <i class="ri-vimeo-fill"></i>
+                                    </a>
+                                </li>
+                                
+                                <li>
+                                    <a href="https://www.instagram.com/" target="_blank">
+                                        <i class="ri-instagram-line"></i>
+                                    </a>
+                                </li>
+                            </ul> -->
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6">
+                        <div class="single-footer-widget ps-5" data-aos="fade-up" data-aos-delay="60" data-aos-duration="600" data-aos-once="true">
+                            <h3>Quick Links</h3>
+
+                            <ul class="quick-links">
+                                <li><a href="/Contact.php">Contact Us</a></li>
+                                <li><a href="#">FAQ's</a></li>
+                                <li><a href="#">Gallery</a></li>
+                                <li><a href="#">FAQ's</a></li>
+                                <li><a href="#">Terms of Service</a></li>
+                                <li><a href="#">Privacy Policy</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6">
+                        <div class="single-footer-widget ps-5" data-aos="fade-up" data-aos-delay="70" data-aos-duration="700" data-aos-once="true">
+                            <h3>Services</h3>
+
+                            <ul class="quick-links">
+                                <li><a href="#">Mobile App Development</a></li>
+                                <li><a href="#">Web Development</a></li>
+                                <li><a href="#">Customer Chat Services</a></li>
+                                <li><a href="#">Graphic Designing</a></li>
+                                <li><a href="#">Search Engine Optimization</a></li>
+                                <li><a href="#">Digital Marketing Services</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6">
+                        <div class="single-footer-widget" data-aos="fade-up" data-aos-delay="80" data-aos-duration="800" data-aos-once="true">
+                            <h3>Subscribe Newsletter</h3>
+
+                            <form class="newsletter-form" data-bs-toggle="validator">
+                                <input type="email" class="input-newsletter" placeholder="Enter your email" name="EMAIL" required autocomplete="off">
+        
+                                <button type="submit" class="default-btn">Subscribe</button>
+                                <div id="validator-newsletter" class="form-result"></div>
+                            </form>
                             <ul class="widget-social">
                                 <li>
                                     <a href="https://www.facebook.com/EnvyTheme" target="_blank">
@@ -100,53 +179,6 @@
                                     </a>
                                 </li>
                             </ul>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6">
-                        <div class="single-footer-widget ps-5" data-aos="fade-up" data-aos-delay="60" data-aos-duration="600" data-aos-once="true">
-                            <h3>Quick Links</h3>
-
-                            <ul class="quick-links">
-                                <li><a href="/index.php">Home</a></li>
-                                <li><a href="/About_us.php">About Us</a></li>
-                                <li><a href="/Services.php">Services</a></li>
-                                <li><a href="/Blog.php">Blogs</a></li>
-                                <li><a href="/Portfolio.php">Portfolio</a></li>
-                                <li><a href="/Contact.php">Contact Us</a></li>
-                                <li><a href="faq.html">FAQ's</a></li>
-                                <li><a href="terms-of-service.html">Terms of Service</a></li>
-                                <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6">
-                        <div class="single-footer-widget ps-5" data-aos="fade-up" data-aos-delay="70" data-aos-duration="700" data-aos-once="true">
-                            <h3>Services</h3>
-
-                            <ul class="quick-links">
-                                <li><a href="contact.html">Mobile App Development</a></li>
-                                <li><a href="purchase-guide.html">Web Development</a></li>
-                                <li><a href="faq.html">Customer Chat Services</a></li>
-                                <li><a href="terms-of-service.html">Graphic Designing</a></li>
-                                <li><a href="privacy-policy.html">Search Engine Optimization</a></li>
-                                <li><a href="privacy-policy.html">VMware Deployment</a></li>
-                                <li><a href="privacy-policy.html">Digital Marketing Services</a></li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6">
-                        <div class="single-footer-widget" data-aos="fade-up" data-aos-delay="80" data-aos-duration="800" data-aos-once="true">
-                            <h3>Subscribe Newsletter</h3>
-
-                            <form class="newsletter-form" data-bs-toggle="validator">
-                                <input type="email" class="input-newsletter" placeholder="Enter your email" name="EMAIL" required autocomplete="off">
-        
-                                <button type="submit" class="default-btn">Subscribe</button>
-                                <div id="validator-newsletter" class="form-result"></div>
-                            </form>
                         </div>
                     </div>
                 </div>
@@ -206,5 +238,5 @@
         <script src="assets/js/main.js"></script>
     </body>
 
-<!-- Mirrored from templates.envytheme.com/coze/default/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Feb 2023 07:30:21 GMT -->
+<!-- Mirrored from  by HTTrack Website  -->
 </html>

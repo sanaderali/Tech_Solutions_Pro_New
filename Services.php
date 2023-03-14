@@ -5,13 +5,13 @@
 <div class="page-banner-area bg-2 jarallax" data-jarallax='{"speed": 0.3}'>
             <div class="container">
                 <div class="page-banner-content" data-aos="fade-right" data-aos-delay="50" data-aos-duration="500" data-aos-once="true">
-                    <h2>Services Style One</h2>
+                    <h2>Our Services</h2>
 
                     <ul>
                         <li>
                             <a href="index.html">Home</a>
                         </li>
-                        <li>Services Style One</li>
+                        <li>Our Services</li>
                     </ul>
                 </div>
             </div>
