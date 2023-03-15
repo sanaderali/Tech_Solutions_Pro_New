@@ -360,7 +360,7 @@
                                     </li> -->
         
                                     <li class="nav-item">
-                                        <a href="contact.php" class="nav-link">Contact</a>
+                                        <a href="/Contact.php" class="nav-link">Contact</a>
                                     </li>
                                 </ul>
 
