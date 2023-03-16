@@ -1,0 +1,12 @@
+.main-navbar{
+    background-color:white !important;
+}
+.main-navbar .navbar .navbar-nav .nav-item a{
+    color:#104a8e !important;
+}
+.main-navbar .navbar .others-options .option-item .search-btn{
+    color:#104a8e !important;
+}
+.main-navbar .navbar .others-options .option-item .side-menu-btn i{
+    color:#104a8e !important;
+}

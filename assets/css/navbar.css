@@ -179,8 +179,7 @@ Navbar Area CSS
 }
 
 .main-navbar .navbar .navbar-brand {
-  padding: 0 30px 0 0;
-  
+  padding: 0 0 0 0;
 }
 
 .main-navbar .navbar ul {
@@ -542,7 +541,8 @@ Navbar Area CSS
   left: 0;
   width: 100%;
   z-index: 999;
-  background: var(--black-color);
+  box-shadow: 0 0 10px;
+  background: var(--white-color);
   -webkit-animation: 500ms ease-in-out 0s normal none 1 running fadeInDown;
           animation: 500ms ease-in-out 0s normal none 1 running fadeInDown;
   -webkit-transition: var(--transition);
@@ -1248,7 +1248,8 @@ Sidebar Modal CSS
     max-width: 100px;
   }
   .navbar-area {
-    background-color: var(--black-color);
+    /* background-color: var(--white-color); */
+    background: var(--white-color);
     padding-top: 15px;
     padding-bottom: 15px;
   }
