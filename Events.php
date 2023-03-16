@@ -7,6 +7,7 @@
                     <div class="col-lg-6 col-md-6 result-count">
                         <p>We found <span class="count">10</span> products available for you</p>
                     </div>
+                    
 
                     <div class="col-lg-6 col-md-6 ordering">
                         <div class="select-box">
