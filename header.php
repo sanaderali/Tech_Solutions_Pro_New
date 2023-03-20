@@ -1,3 +1,4 @@
+<?php include('funcations.php')?>
 <!doctype html>
 <html lang="zxx">
 

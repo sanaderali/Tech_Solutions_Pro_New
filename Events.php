@@ -1,4 +1,8 @@
-<?php include ('header.php'); ?>
+<?php include ('header.php'); 
+
+
+
+?>
         
         <!-- Start Events Area -->
         <div class="events-area pt-100 pb-100">
