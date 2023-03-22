@@ -1,4 +1,9 @@
-<?php include ('header.php'); ?>
+<?php include ('header.php');
+$sql = "SELECT * FROM services ORDER BY id DESC LIMIT $offset,$limit";
+$result = mysqli_query($conn, $sql);
+    exit();
+
+?>
 
 
 

@@ -63,7 +63,7 @@
 <footer class="footer-area with-black-background margin-zero pt-100">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-lg-3 col-md-6">
+                    <!-- <div class="col-lg-3 col-md-6">
                         <div class="single-footer-widget" data-aos="fade-up" data-aos-delay="50" data-aos-duration="500" data-aos-once="true">
                             <h1 class="engage-class">ENGAGE & EXPERIENCE</h1>
                             
@@ -76,7 +76,7 @@
                             <h5 class="office-heading">PAKISTAN Office</h5>
 
                             
-                            <!-- <ul class="widget-social">
+                            <ul class="widget-social">
                                 <li>
                                     <a href="https://www.facebook.com/EnvyTheme" target="_blank">
                                         <i class="ri-facebook-fill"></i>
@@ -105,11 +105,10 @@
                                         <i class="ri-instagram-line"></i>
                                     </a>
                                 </li>
-                            </ul> -->
-                        </div>
-                    </div>
+                            </ul> 
+                    </div> -->
 
-                    <div class="col-lg-3 col-md-6">
+                    <div class="col-lg-4 col-md-6">
                         <div class="single-footer-widget ps-5" data-aos="fade-up" data-aos-delay="60" data-aos-duration="600" data-aos-once="true">
                             <h3>Quick Links</h3>
 
@@ -124,7 +123,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-3 col-md-6">
+                    <div class="col-lg-4 col-md-6">
                         <div class="single-footer-widget ps-5" data-aos="fade-up" data-aos-delay="70" data-aos-duration="700" data-aos-once="true">
                             <h3>Services</h3>
 
@@ -139,7 +138,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-3 col-md-6">
+                    <div class="col-lg-4 col-md-6">
                         <div class="single-footer-widget" data-aos="fade-up" data-aos-delay="80" data-aos-duration="800" data-aos-once="true">
                             <h3>Subscribe Newsletter</h3>
 

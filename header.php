@@ -1,3 +1,4 @@
+<?php include('funcations.php')?>
 <!doctype html>
 <html lang="zxx">
 
@@ -71,10 +72,10 @@
                             <i class="ri-mail-line text-dark"></i>
                             <span class="text-dark">Mail: <a href="mailto:sales@techsolutionspro.co.uk">sales@techsolutionspro.co.uk</a></span>
                         </li>
-                        <li>
+                        <!-- <li>
                             <i class="ri-map-pin-line text-dark"></i>
                             <span class="text-dark">Address:</span> 507 Alfreton Rd, Nottingham NG7 5NH, United Kingdom.
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
 
