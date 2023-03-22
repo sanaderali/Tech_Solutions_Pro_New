@@ -222,7 +222,7 @@ mysqli_close($conn);
         <aside class="menu-sidebar d-none d-lg-block">
             <div class="logo">
                 <a href="#">
-                    <img src="images/icon/logo.png" alt="Cool Admin" />
+                    <img src="../assets/images/logo.png" alt="Cool Admin" />
                 </a>
             </div>
             <div class="menu-sidebar__content js-scrollbar1">
@@ -233,27 +233,29 @@ mysqli_close($conn);
                                 <i class="fas fa-tachometer-alt"></i>Dashboard</a>
                             <ul class="list-unstyled navbar__sub-list js-sub-list">
                                 <li>
-                                    <a href="index.html">Dashboard 1</a>
+                                    <a href="index.html">Dashboard</a>
                                 </li>
                             </ul>
                         </li>
                         
                         <li>
-                            <a href="/post.php">
-                                <i class="fas fa-table"></i>Blog</a>
+                            <a href="#">
+                                <i class="fas fa-table"></i>Blogs</a>
                         </li>
                         <li>
                             <a href="#">
-                                <i class="far fa-check-square"></i>Forms</a>
+                                <i class="fas fa-table"></i>Services</a>
                         </li>
                         <li>
                             <a href="#">
-                                <i class="fas fa-calendar-alt"></i>Calendar</a>
+                                <i class="fas fa-table"></i>Team</a>
                         </li>
                         <li>
                             <a href="#">
-                                <i class="fas fa-map-marker-alt"></i>Maps</a>
+                                <i class="far fa-check-square"></i>Testimonials</a>
                         </li>
+                        
+                        
                         
                         
                     </ul>
@@ -391,23 +393,23 @@ mysqli_close($conn);
                                 <div class="account-wrap">
                                     <div class="account-item clearfix js-item-menu">
                                         <div class="image">
-                                            <img src="images/icon/avatar-01.jpg" alt="John Doe" />
+                                            <img src="images/Sanader.jpg" alt="John Doe" />
                                         </div>
                                         <div class="content">
-                                            <a class="js-acc-btn" href="#">john doe</a>
+                                            <a class="js-acc-btn" href="#">Sanader Ali</a>
                                         </div>
                                         <div class="account-dropdown js-dropdown">
                                             <div class="info clearfix">
                                                 <div class="image">
                                                     <a href="#">
-                                                        <img src="images/icon/avatar-01.jpg" alt="John Doe" />
+                                                        <img src="images/Sanader.jpg" alt="John Doe" />
                                                     </a>
                                                 </div>
                                                 <div class="content">
                                                     <h5 class="name">
-                                                        <a href="#">john doe</a>
+                                                        <a href="#">Sanader Ali</a>
                                                     </h5>
-                                                    <span class="email">johndoe@example.com</span>
+                                                    <span class="email">Sanaderali007@gmail.com</span>
                                                 </div>
                                             </div>
                                             <div class="account-dropdown__body">
