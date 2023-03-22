@@ -53,19 +53,19 @@
             </div>
 
             <div class="main-slides-shape-1">
-                <img src="assets/images/home-slides/slides-shape-1.png" alt="image">
+                <img src="assets/website/5.png" alt="image">
             </div>
             <div class="main-slides-shape-2">
-                <img src="assets/images/home-slides/slides-shape-2.png" alt="image">
+                <img src="assets/website/2.png" alt="image">
             </div>
             <div class="main-slides-shape-3">
-                <img src="assets/images/home-slides/slides-shape-3.png" alt="image">
+                <img src="assets/website/1.png" alt="image">
             </div>
             <div class="main-slides-shape-4">
-                <img src="assets/images/home-slides/slides-shape-4.png" alt="image">
+                <img src="assets/website/6.png" alt="image">
             </div>
             <div class="main-slides-shape-5">
-                <img src="assets/images/home-slides/slides-shape-5.png" alt="image">
+                <img src="assets/website/5.png" alt="image">
             </div>
         </div>
         <!-- End Main Slides Area -->
